@@ -1,0 +1,28 @@
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.exe
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.deps.json
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.runtimeconfig.json
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.pdb
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.AssemblyInfoInputs.cache
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.AssemblyInfo.cs
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.csproj.CoreCompileInputs.cache
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\obj\Debug\net8.0\refint\EjercicioEntregable2.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.pdb
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.genruntimeconfig.cache
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\EjercicioEntregable2\obj\Debug\net8.0\ref\EjercicioEntregable2.dll
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.exe
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.deps.json
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.runtimeconfig.json
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.dll
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\bin\Debug\net8.0\EjercicioEntregable2.pdb
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.AssemblyInfoInputs.cache
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.AssemblyInfo.cs
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.csproj.CoreCompileInputs.cache
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.dll
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\obj\Debug\net8.0\refint\EjercicioEntregable2.dll
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.pdb
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\obj\Debug\net8.0\EjercicioEntregable2.genruntimeconfig.cache
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\EjercicioEntregable2\obj\Debug\net8.0\ref\EjercicioEntregable2.dll
